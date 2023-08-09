@@ -1,0 +1,1 @@
+Tudo feito no CodeBlocks, as pastas são os Workspaces.
